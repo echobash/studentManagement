@@ -3,6 +3,7 @@ from PyQt5 import QtWidgets, QtSql
 import sys
 #import mysql.connector
 
+#making connection with database using mysq.connector
 #conn = mysql.connector.connect(user='root', password='123987', host='localhost', database='')
 #mycursor = conn.cursor()
 
